@@ -31,11 +31,13 @@
 **AI / Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 **Backend / Serving**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -43,6 +45,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=flat-square)
 
 **Embedded / Robotics**
@@ -54,8 +57,9 @@
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 </div>
 
@@ -68,17 +72,3 @@
 | [**SSAFY AI Challenge 2026 VQA**](https://github.com/kdHyeok/ssafy-ai-challenge-2026) | 재활용품 이미지 기반 객관식 VQA. Qwen3-VL-32B LoRA, Qwen3.5-27B soft ensemble, detection/TTA를 검증했고 최종 제출 점수 0.94402, Private 12위를 기록했습니다. | Python, Jupyter, Qwen3-VL, LoRA, Grounding DINO, Florence-2 |
 | [**Chat JJ**](https://github.com/kdHyeok/Capstone_Chat_JJ) | 전주대학교 공지사항을 챗봇 검색 데이터로 쓰기 위해 크롤링, 본문 정제, OCR, 마감일 추출, 카테고리 분류까지 구성한 데이터 파이프라인입니다. | Python, BeautifulSoup, OCR, pandas, CSV, RAG |
 | [**Local API**](https://github.com/kdHyeok/local_api) | GTX 1060 6GB 환경에서 llama.cpp `llama-server`와 FastAPI wrapper를 연결해 OpenAI 호환 로컬 LLM API를 구성했습니다. | FastAPI, llama.cpp, GGUF, CUDA, Bash |
-
----
-
-## Tech Blog
-
-- [**kdhyeok.github.io**](https://kdhyeok.github.io/) — 프로젝트 정리, 학습 기록, 기술 메모를 모으는 기술 블로그입니다.
-
----
-
-## Currently Learning
-
-- SSAFY 15기 임베디드 로봇 트랙: C++, ROS 2, RViz, URDF, Gazebo, OpenCV
-- 로컬 LLM/VLM serving: GGUF, llama.cpp, API wrapper, 저사양 GPU 추론 구조
-- 데이터 파이프라인: 웹 크롤링, 정제, 분류 기준 설계, 결과 문서화
