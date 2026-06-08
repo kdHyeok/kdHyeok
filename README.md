@@ -1,0 +1,82 @@
+<div align="center">
+
+# 김동혁 | kdHyeok
+
+**Data Pipeline · AI/VLM Experiment · Local LLM Serving · Embedded Robotics**
+
+기계자동차공학과에서 컴퓨터공학과로 전과한 뒤, 데이터 수집/정제, VLM fine-tuning, 로컬 LLM serving, 임베디드 로봇 학습을 이어가고 있습니다.
+
+[![GitHub](https://img.shields.io/badge/GitHub-kdHyeok-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kdHyeok)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-kdhyeok.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kdhyeok.github.io/)
+
+</div>
+
+---
+
+## About
+
+- 전주대학교 컴퓨터공학과, SSAFY 15기 광주 캠퍼스 임베디드 로봇 트랙 학습 중
+- Python 기반 데이터 수집/전처리, Jupyter Notebook 실험 정리, AI 모델 학습/추론 파이프라인 구축 경험
+- C++, ROS 2, OpenCV, Gazebo, TCP/Modbus를 활용한 로봇/임베디드 소프트웨어 학습
+- ADsP, 정보처리기사 보유
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**AI / Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Backend / Serving**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=flat-square)
+
+**Embedded / Robotics**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-000000?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**SSAFY AI Challenge 2026 VQA**](https://github.com/kdHyeok/ssafy-ai-challenge-2026) | 재활용품 이미지 기반 객관식 VQA. Qwen3-VL-32B LoRA, Qwen3.5-27B soft ensemble, detection/TTA를 검증했고 최종 제출 점수 0.94402, Private 12위를 기록했습니다. | Python, Jupyter, Qwen3-VL, LoRA, Grounding DINO, Florence-2 |
+| [**Chat JJ**](https://github.com/kdHyeok/Capstone_Chat_JJ) | 전주대학교 공지사항을 챗봇 검색 데이터로 쓰기 위해 크롤링, 본문 정제, OCR, 마감일 추출, 카테고리 분류까지 구성한 데이터 파이프라인입니다. | Python, BeautifulSoup, OCR, pandas, CSV, RAG |
+| [**Local API**](https://github.com/kdHyeok/local_api) | GTX 1060 6GB 환경에서 llama.cpp `llama-server`와 FastAPI wrapper를 연결해 OpenAI 호환 로컬 LLM API를 구성했습니다. | FastAPI, llama.cpp, GGUF, CUDA, Bash |
+
+---
+
+## Tech Blog
+
+- [**kdhyeok.github.io**](https://kdhyeok.github.io/) — 프로젝트 정리, 학습 기록, 기술 메모를 모으는 기술 블로그입니다.
+
+---
+
+## Currently Learning
+
+- SSAFY 15기 임베디드 로봇 트랙: C++, ROS 2, RViz, URDF, Gazebo, OpenCV
+- 로컬 LLM/VLM serving: GGUF, llama.cpp, API wrapper, 저사양 GPU 추론 구조
+- 데이터 파이프라인: 웹 크롤링, 정제, 분류 기준 설계, 결과 문서화
