@@ -8,7 +8,6 @@
 
 기계자동차공학과에서 컴퓨터공학과로 전과한 뒤, 데이터 수집/정제, VLM fine-tuning, 로컬 LLM serving, 임베디드 로봇 학습을 이어가고 있습니다.
 
-[![GitHub](https://img.shields.io/badge/GitHub-kdHyeok-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kdHyeok)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-kdhyeok.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kdhyeok.github.io/)
 
 </div>
