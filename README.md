@@ -1,5 +1,7 @@
 <div align="center">
 
+<!-- profile-readme -->
+
 # 김동혁 | kdHyeok
 
 **Data Pipeline · AI/VLM Experiment · Local LLM Serving · Embedded Robotics**
