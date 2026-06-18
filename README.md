@@ -6,7 +6,8 @@
 
 **Data Pipeline · AI/VLM Experiment · Local LLM Serving · Embedded Robotics**
 
-기계자동차공학과에서 컴퓨터공학과로 전과한 뒤, 데이터 수집/정제, VLM fine-tuning, 로컬 LLM serving, 임베디드 로봇 학습을 이어가고 있습니다.
+저는 새로운 기술을 적용하는 것에서 끝내지 않고, 실제로 사용할 수 있는 형태로 다듬는 과정에 관심이 많은 개발자입니다.
+요즘은 데이터 수집·정제, 학습·추론, API 서빙까지 연결하는 AI 엔지니어링에 관심을 두고 있습니다.
 
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-kdhyeok.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kdhyeok.github.io/)
 
@@ -16,10 +17,11 @@
 
 ## About
 
-- 전주대학교 컴퓨터공학과, SSAFY 15기 광주 캠퍼스 임베디드 로봇 트랙 학습 중
-- Python 기반 데이터 수집/전처리, Jupyter Notebook 실험 정리, AI 모델 학습/추론 파이프라인 구축 경험
-- C++, ROS 2, OpenCV, Gazebo, TCP/Modbus를 활용한 로봇/임베디드 소프트웨어 학습
-- ADsP, 정보처리기사 보유
+- 전주대학교 컴퓨터공학과 졸업
+- 삼성청년SW·AI아카데미(SSAFY) 15기 광주 캠퍼스 임베디드 로봇 트랙 교육 중
+- Linux 환경에서 C++·Python, ROS 2, OpenCV, Gazebo, TCP·Modbus 통신 및 Python 백엔드 학습
+- 프로젝트를 통해 VLM 모델 비교·튜닝, RAG 입력 데이터 수집·정제, 로컬 LLM API 구성 경험
+- 정보처리기사 · SQLD · 빅데이터분석기사 보유
 
 ---
 
