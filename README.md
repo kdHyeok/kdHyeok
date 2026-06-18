@@ -4,10 +4,12 @@
 
 # 김동혁 | kdHyeok
 
-**Data Pipeline · AI/VLM Experiment · Local LLM Serving · Embedded Robotics**
-
+ **Data Pipeline · AI/VLM Experiment · Local LLM Serving · Embedded Robotics**
+<div>
 저는 새로운 기술을 적용하는 것에서 끝내지 않고, 실제로 사용할 수 있는 형태로 다듬는 과정에 관심이 많은 개발자입니다.
+
 요즘은 데이터 수집·정제, 학습·추론, API 서빙까지 연결하는 AI 엔지니어링에 관심을 두고 있습니다.
+</div>
 
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-kdhyeok.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kdhyeok.github.io/)
 
