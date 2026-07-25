@@ -20,7 +20,8 @@
 ## About
 
 - 전주대학교 컴퓨터공학과 졸업
-- 삼성청년SW·AI아카데미(SSAFY) 15기 광주 캠퍼스 임베디드 로봇 트랙 교육 중
+- 삼성청년SW·AI아카데미(SSAFY) 15기 광주 캠퍼스 임베디드 로봇 트랙 1학기 교육 이수
+- 삼성청년SW·AI아카데미(SSAFY) 15기 광주 캠퍼스 2학기 프로젝트 진행 중
 - Linux 환경에서 C++·Python, ROS 2, OpenCV, Gazebo, TCP·Modbus 통신 및 Python 백엔드 학습
 - 프로젝트를 통해 VLM 모델 비교·튜닝, RAG 입력 데이터 수집·정제, 로컬 LLM API 구성 경험
 - 정보처리기사 · SQLD · 빅데이터분석기사 보유
