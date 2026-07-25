@@ -86,9 +86,9 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**SSAFY AI Challenge 2026 VQA**](https://github.com/kdHyeok/ssafy-ai-challenge-2026) | 재활용품 이미지 기반 객관식 VQA. Qwen3-VL-32B LoRA, Qwen3.5-27B soft ensemble, detection/TTA를 검증했고 최종 제출 점수 0.94402, Private 12위를 기록했습니다. | Python, Jupyter, Qwen3-VL, LoRA, Grounding DINO, Florence-2 |
-| [**Chat JJ**](https://github.com/kdHyeok/Capstone_Chat_JJ) | 전주대학교 공지사항을 챗봇 검색 데이터로 쓰기 위해 크롤링, 본문 정제, OCR, 마감일 추출, 카테고리 분류까지 구성한 데이터 파이프라인입니다. | Python, BeautifulSoup, OCR, pandas, CSV, RAG |
-| [**Local API**](https://github.com/kdHyeok/local_api) | GTX 1060 6GB 환경에서 llama.cpp `llama-server`와 FastAPI wrapper를 연결해 OpenAI 호환 로컬 LLM API를 구성했습니다. | FastAPI, llama.cpp, GGUF, CUDA, Bash |
-| [**vision-guided-robot-cell**](https://github.com/kdHyeok/vision-guided-robot-cell)  | 싸피 관통 프로젝트 | ROS, dobot |
+| Project                                                                               | Description                                                                                                                   | Stack                                                          |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [**SSAFY AI Challenge 2026 VQA**](https://github.com/kdHyeok/ssafy-ai-challenge-2026) | 재활용품 이미지 기반 객관식 VQA. Qwen3-VL-32B LoRA, Qwen3.5-27B soft ensemble, detection/TTA를 검증했고 최종 제출 점수 0.94402, Private 12위를 기록했습니다. | Python, Jupyter, Qwen3-VL, LoRA, Grounding DINO, Florence-2    |
+| [**Chat JJ**](https://github.com/kdHyeok/Capstone_Chat_JJ)                            | 전주대학교 공지사항을 챗봇 검색 데이터로 쓰기 위해 크롤링, 본문 정제, OCR, 마감일 추출, 카테고리 분류까지 구성한 데이터 파이프라인입니다.                                             | Python, BeautifulSoup, OCR, pandas, CSV, RAG                   |
+| [**Local API**](https://github.com/kdHyeok/local_api)                                 | GTX 1060 6GB 환경에서 llama.cpp `llama-server`와 FastAPI wrapper를 연결해 OpenAI 호환 로컬 LLM API를 구성했습니다.                                | FastAPI, llama.cpp, GGUF, CUDA, Bash                           |
+| [**vision-guided-robot-cell**](https://github.com/kdHyeok/vision-guided-robot-cell)   | RealSense·YOLOv5 객체 인식과 평면 좌표 보정으로 pick/place를 구성하고, Modbus mock과 Vue 대시보드로 상태 관제 계층을 분리한 축소형 로봇 셀 프로젝트입니다.                           | ROS 2, Python, RealSense, YOLOv5, OpenCV, Dobot, Modbus TCP, Vue 3 |
