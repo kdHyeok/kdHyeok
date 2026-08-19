@@ -95,4 +95,4 @@
 | [**vision-guided-robot-cell**](https://github.com/kdHyeok/vision-guided-robot-cell)   | RealSense·YOLOv5 객체 인식과 캘리브레이션 기반 좌표 보정을 통해 pick/place를 구성하고, Modbus와 Vue 대시보드로 상태 관제 계층을 분리한 축소형 로봇 셀 프로젝트입니다.               | ROS 2, Python, RealSense, YOLOv5, OpenCV, Dobot, Modbus TCP, Vue 3 |
 
 
-[![Tokenphage](https://api.tokenphage.com/badge/kdHyeok)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/kdHyeok?theme=grass-claude)](https://github.com/TOKENPHAGE)
